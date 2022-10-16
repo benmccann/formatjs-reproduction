@@ -1,0 +1,10 @@
+{
+  "name": "formatjs-reproduction",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "intl-messageformat": "^10.2.0"
+  }
+}
